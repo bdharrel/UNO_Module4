@@ -1,0 +1,16 @@
+
+"""
+Git workflow simplified
+
+git clone "repo link" creates a copy (clone) of your
+repo from github to your local computer
+
+git status tells you what is what
+git add <filename> adds new files to your repo
+git commit -m "msg" commits the files to your repo
+git push  pushes the new files to your repo
+
+"""
+
+
+"type something"
